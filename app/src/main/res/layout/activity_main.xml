@@ -63,9 +63,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="buckysText222"
+        android:text="buckysText333"
         android:id="@+id/buckysText"
         android:layout_below="@+id/button2"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="86dp" />
+        android:layout_marginTop="86dp"
+        android:singleLine="true" />
 </RelativeLayout>
